@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Killian-QUINTIN&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QUINTIN-Killian&layout=compact&theme=tokyonight)
 
 ---
 

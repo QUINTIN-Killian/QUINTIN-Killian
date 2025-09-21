@@ -9,8 +9,8 @@
 
 ## 🚀 Skills & Interests
 
-- 👨🏻‍💻 **Languages**: Python, C, C++, HTML, CSS, JavaScript, TypeScript, Haskell
-- 🛠️ **Tools**: Git, Docker, Linux, Godot
+👨🏻‍💻 **Languages**: Python, C, C++, HTML, CSS, JavaScript, TypeScript, Haskell  
+🛠️ **Tools**: Git, Docker, Linux, Godot
 
 ---
 
@@ -22,6 +22,6 @@
 
 ## 🌐 Find me
 
-- 📲 [LinkedIn](www.linkedin.com/in/killian-quintin-85b6aa2a8)  
-- 📁 [Portfolio]() *(still working on it)*  
-- 📫 Email: killian.quintin@epitech.eu
+📲 [LinkedIn](www.linkedin.com/in/killian-quintin-85b6aa2a8)  
+📁 [Portfolio]() *(still working on it)*  
+📫 Email: killian.quintin@epitech.eu

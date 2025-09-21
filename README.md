@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @QUINTIN-Killian
-- 👀 I’m interested in video games, reading and coding
-- 🌱 I’m currently learning programing and I post here certain of my projects
-- 🏢 I'm in third year in EPITECH Lyon
-- 📫 How to reach me :
-    - killian.quintin@epitech.eu
-    - https://www.linkedin.com/in/killian-quintin-85b6aa2a8/
+# 👋 Hi, I'm Killian
 
-<!---
-QUINTIN-Killian/QUINTIN-Killian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 3rd year student at EPITECH Lyon, France  
+💻 Passionate about game development  
+🎯 Goal: become the person I want to become  
+🔫 Sports shooter in my free time  
+
+---
+
+## 🚀 Skills & Interests
+
+- 👨🏻‍💻 **Languages**: Python, C, C++, HTML, CSS, JavaScript, TypeScript, Haskell
+- 🛠️ **Tools**: Git, Docker, Linux, Godot
+
+---
+
+## 📊 GitHub Stats
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Killian-QUINTIN&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Find me
+
+- 📲 [LinkedIn](www.linkedin.com/in/killian-quintin-85b6aa2a8)  
+- 📁 [Portfolio]() *(still working on it)*  
+- 📫 Email: killian.quintin@epitech.eu

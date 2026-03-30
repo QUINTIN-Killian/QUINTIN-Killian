@@ -2,15 +2,15 @@
 
 🎓 3rd year student at EPITECH Lyon, France  
 💻 Passionate about game development  
-🎯 Goal: become the person I want to become  
+🎯 Goal: become the best version of myself  
 🔫 Sports shooter in my free time  
 
 ---
 
 ## 🚀 Skills & Interests
 
-👨🏻‍💻 **Languages**: Python, C, C++, HTML, CSS, JavaScript, TypeScript, Haskell  
-🛠️ **Tools**: Git, Docker, Linux, Godot
+👨🏻‍💻 **Languages**: Python, C, C++, Rust, HTML, CSS, JavaScript, TypeScript, Haskell  
+🛠️ **Tools**: Git, Docker, Linux, Godot, Unity
 
 ---
 

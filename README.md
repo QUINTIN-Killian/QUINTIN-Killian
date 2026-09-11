@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Killian
 
-🎓 4th year student at EPITECH Lyon, France - currently studying at Keimyung University, Daegu, South Korea 
+🎓 4th year student at EPITECH Lyon, France - currently studying at Keimyung University, Daegu, South Korea
 💻 Passionate about software and game development  
 🎯 Goal: become the best version of myself  
 🔫 Sports shooter in my free time  

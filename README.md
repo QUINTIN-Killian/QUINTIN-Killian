@@ -9,7 +9,7 @@
 
 ## 🚀 Skills & Interests
 
-👨🏻‍💻 **Languages**: Python, C, C++  
+👨🏻‍💻 **Languages**: Python, C, C++, C#  
 🛠️ **Tools**: Git, Docker, Godot, Unity
 
 ---

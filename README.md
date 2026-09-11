@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Killian
 
-🎓 3rd year student at EPITECH Lyon, France  
-💻 Passionate about game development  
+🎓 4th year student at EPITECH Lyon, France - currently studying at Keimyung University, Daegu, South Korea 
+💻 Passionate about software and game development  
 🎯 Goal: become the best version of myself  
 🔫 Sports shooter in my free time  
 
@@ -9,8 +9,8 @@
 
 ## 🚀 Skills & Interests
 
-👨🏻‍💻 **Languages**: Python, C, C++, Rust, HTML, CSS, JavaScript, TypeScript, Haskell  
-🛠️ **Tools**: Git, Docker, Linux, Godot, Unity
+👨🏻‍💻 **Languages**: Python, C, C++  
+🛠️ **Tools**: Git, Docker, Godot, Unity
 
 ---
 
